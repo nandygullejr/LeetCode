@@ -1,3 +1,4 @@
+// Runtime beats 46.17 % of csharp submissions.
 public class Solution {
     public bool IsPalindrome(int x) {
         if (x < 0) {
